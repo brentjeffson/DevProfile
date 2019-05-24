@@ -140,7 +140,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:background="#C6512F"
+        android:background="@drawable/rounded_gradient"
         android:text="Customize Dashboard"
         android:textColor="@android:color/white"
         app:layout_constraintEnd_toEndOf="parent"
